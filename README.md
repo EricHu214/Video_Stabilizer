@@ -28,3 +28,5 @@ https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
 http://people.scs.carleton.ca/~c_shu/Courses/comp4900d/notes/homography.pdf
 - MeshFlow
 http://www.liushuaicheng.org/eccv2016/meshflow.pdf
+- MeshFlow Implementation
+https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization
