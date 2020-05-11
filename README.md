@@ -18,15 +18,9 @@ by Eric Hu, Hsiang-Chi(Jacky) Yang
 - Neural Network/Stereo image Processing
 
 ## Reference
-- GwcNet, Disparity map detection
-https://github.com/xy-guo/GwcNet
-- Homography Examples using OpenCV
-https://www.learnopencv.com/homography-examples-using-opencv-python-c/
-- OPENCV: Feature Matching
-https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html
-- Homography by Dr. Gerhard Roth
-http://people.scs.carleton.ca/~c_shu/Courses/comp4900d/notes/homography.pdf
-- MeshFlow
-http://www.liushuaicheng.org/eccv2016/meshflow.pdf
-- MeshFlow Implementation
-https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization
+- [GwcNet, Disparity map detection](https://github.com/xy-guo/GwcNet)
+- [Homography Examples using OpenCV](https://www.learnopencv.com/homography-examples-using-opencv-python-c/)
+- [OPENCV: Feature Matching](https://docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html)
+- [Homography by Dr. Gerhard Roth](http://people.scs.carleton.ca/~c_shu/Courses/comp4900d/notes/homography.pdf)
+- [MeshFlow](http://www.liushuaicheng.org/eccv2016/meshflow.pdf)
+- [Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization)
